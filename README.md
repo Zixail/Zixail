@@ -1,1 +1,3 @@
-Student of Peter the Great St.Petersburg Polytechnic University
+- Студент Санкт-Петербургского Политехнического Университета имени Петра Великого.
+- Институт ИКНК — Высшая Школа Кибербезопасности.
+- Стек: Python, Java, C.
